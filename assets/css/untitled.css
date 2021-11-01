@@ -1,0 +1,25 @@
+logo {
+  width: 50px;
+}
+
+.progress-bar {
+  background-color: rgb(10,79,183);
+}
+
+p {
+  text-align: center;
+}
+
+@media (min-width: 1400px) {
+  .page-footer {
+  }
+}
+
+img {
+  width: 600px;
+}
+
+h3 {
+  text-align: center;
+}
+
